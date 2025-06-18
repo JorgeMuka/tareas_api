@@ -17,5 +17,5 @@ Este es un proyecto de ejemplo para la creación de una API REST básica que ges
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/TU_USUARIO/TU_REPO.git
+   git clone https://github.com/JorgeMuka/TU_REPO.git
    cd tareas_api
